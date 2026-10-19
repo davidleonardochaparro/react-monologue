@@ -1,6 +1,6 @@
 # Monologue Simulator
 
-## Live demo: [Step into your own conversation ✨](YOUR_PUBLIC_LANDING_PAGE_URL)
+## Live demo: [Step into your own conversation ✨](https://davidleonardochaparro.github.io/react-monologue/)
 
 What if your thoughts had a chat room of their own? Inspired by Slack layout, this playful little simulator lets you give your inner voices the floor, switch between two color-coded users, and watch each thought join the conversation. 🗣️💬
 
