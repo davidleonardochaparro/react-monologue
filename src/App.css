@@ -1,0 +1,10 @@
+main {
+    height: 100vh !important;
+    max-height: 100vh !important;
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+} 
+
+* {
+    /* outline: 1px solid red; */
+}
